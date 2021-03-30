@@ -1,26 +1,4 @@
-/*
-* Stage 1 System.out.println("Starting to make a coffee");
-* System.out.println("Grinding coffee beans");
-* System.out.println("Boiling water");
-* System.out.println("Mixing boiled water with crushed coffee beans");
-* System.out.println("Pouring coffee into the cup");
-* System.out.println("Pouring some milk into the cup");
-* System.out.println("Coffee is ready!");
-*/
-
-/*
-* Stage 2 Scanner scanner = new Scanner(System.in);
-* System.out.println("Write how many cups of coffee you will need:");
-* 
-* int amount = scanner.nextInt(); // The user should input the amount of coffee
-* he needs, in cups, for all the guests. int water = 200 * amount; // contains
-* 200 ml of water, int milk = 50 * amount; // 50 ml of milk, int beans = 15 *
-* amount; // and 15 g of coffee beans
-* 
-* System.out.println("For " + amount + " cups of coffee you will need:");
-* System.out.println(water + " ml of water"); System.out.println(milk +
-* " ml of milk"); System.out.println(beans + " g of coffee beans");
-*/
+// Stage 3/6: Estimate the number of servings
 
 // Description
 // A real coffee machine never has an infinite supply of water, milk, or coffee beans. And if you input a really big number, it’s almost certain that a real coffee machine wouldn't have the supplies needed to make all that coffee.
